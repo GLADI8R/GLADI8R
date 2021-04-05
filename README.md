@@ -1,7 +1,7 @@
-- 👋 Hi, ’m @GLADI8R
+- 👋 Hi, I’m @GLADI8R
 - 👀 I’m interested in Web-development and competitive programming
 - 🌱 I’m currently learning React
-- 💞️ I’m looking to collaborate on any development project.
+- 💞️ I’m looking to collaborate on any development project
 - 📫 Email me on danishmehmuda@gmail.com
 
 <!---
