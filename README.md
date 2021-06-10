@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @GLADI8R
+- 👋 Hi, I’m Danish 
 - 👀 I’m interested in Web-development and competitive programming
 - 🌱 I’m currently learning React
 - 💞️ I’m looking to collaborate on any development project
