@@ -4,7 +4,7 @@
 - I’m passionate about technology and want to learn more on MERN stack
 - 💞️ I’m looking to collaborate on any development project
 - 📫 Email me on danishmehmuda@gmail.com
-- To know more about my work, cd to my repo section :smile:
+- To know more about my works, cd to my repo section :smile:
 - Here's my online portfolio :point_right: [Visit](https://gladi8r-github-io.vercel.app/)
 
 <!---
