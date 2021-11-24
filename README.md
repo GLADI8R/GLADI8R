@@ -1,7 +1,7 @@
 - **👋 Hi, I’m Danish**
  
 - 👀 I’m interested in Web-development and competitive programming
-- I’m passionate about technology and want to learn more on MERN stack
+- I’m passionate about technology and have good skills on MERN stack and Flutter
 - 💞️ I’m looking to collaborate on any development project
 - 📫 Email me on danishmehmuda@gmail.com
 - To know more about my works, cd to my repo section :smile:
