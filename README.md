@@ -1,6 +1,6 @@
 - **👋 Hi, I’m Danish**
  
-- 👀 I’m interested in Web-development, Cloud and beginner in Machine Learning
+- 👀 I’m interested in Web-development, Cloud and Machine Learning
 - I’m passionate about technology and have good skills on MERN stack, Flutter, Python
 - 💞️ I’m looking to collaborate on any development project
 - 📫 Email me on danishmehmuda@gmail.com
