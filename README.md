@@ -1,8 +1,7 @@
 <!-- - **👋 Hi, I’m Danish**
  
-- 👀 I’m interested in Web-development, Cloud and Machine Learning
+-  I’m interested in Web-development, Cloud and Machine Learning
 - I’m passionate about technology and have good skills on MERN stack, Flutter, Python
-- 💞️ I’m looking to collaborate on any development project
 - 📫 Email me on danishmehmuda@gmail.com
 - To know more about my works, cd to my repo section :smile:
 - Here's my online portfolio :point_right: [Visit](https://gladi8r-github-io.vercel.app/) -->
@@ -13,7 +12,10 @@ You can click the Preview link to take a look at your changes.
 --->
 
 # 💫 About Me:
-I'm a technology enthusiast with an inclination towards Web and Cloud technologies.<br>Contributing to open-source and learning with the flow.<br>To know more about my works, cd to my repo section :smile:<br>
+- 👀 I'm a technology enthusiast with an inclination towards Web and Cloud technologies.
+- Contributing to open-source and learning with the flow.
+- 💞️ I’m looking to collaborate on any development project
+- To know more about my works, cd to my repo section :smile:<br>
 
 
 ## 🌐 Socials:
