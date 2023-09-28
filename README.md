@@ -13,7 +13,7 @@ You can click the Preview link to take a look at your changes.
 --->
 
 # 💫 About Me:
-I'm a technology enthusiast, currently working at Dozee as a Technology Intern, with an inclination towards Web and Cloud technologies.<br>Contributing to open-source and learning with the flow.<br>To know more about my works, cd to my repo section :smile:<br>
+I'm a technology enthusiast with an inclination towards Web and Cloud technologies.<br>Contributing to open-source and learning with the flow.<br>To know more about my works, cd to my repo section :smile:<br>
 
 
 ## 🌐 Socials:
